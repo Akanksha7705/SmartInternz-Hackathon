@@ -35,7 +35,7 @@ User Interface
 # Setup
 
 **Clone the Repository:**
-git clone https://github.com/Aishwarya5959/thesmartbites.git
+git clone https://github.com/Akanksha7705/SmartInternz-Hackathon.git
 
 
 cd project
